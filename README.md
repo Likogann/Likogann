@@ -2,9 +2,8 @@
 <h3 align="center">A passionate NodeJS developer from Canada</h3>
 
 - 🔭 I’m currently working on [image-captcha](https://github.com/Likogann/image-captcha)
-- 🌱 I’m currently learning **Image Generation, ExpressJS, C++**
-- 👨‍💻 All of my projects are available at [https://github.com/Likogann](https://github.com/Likogann)
-- 📝 I regularly write articles on [https://likogan.dev/](https://likogan.dev/)
+- 🌱 I’m currently learning **Image Generation, Quadratics for expenses vs estimated sales, Linux Sofrware**
+- 👨‍💻 Most of my projects are available at [https://github.com/Likogann](https://github.com/Likogann)
 - 💬 Ask me about **NodeJS,**
 - 📫 How to reach me **https://likogan.dev/me**
 - 📄 Know about my experiences [https://likogan.dev/about-me](https://likogan.dev/about-me)
@@ -12,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+- Email: me@likogan.dev
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
