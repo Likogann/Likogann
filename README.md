@@ -37,9 +37,9 @@ Having managed large production environments in the past, I know what I'm doing 
 Having run Minecraft and Unturned servers since I was just ten years old, I have lots of experience managing a playerbase, and with developer tools. I've really enjoyed setting up things like NetworkManager, and other web-based administrator management portals.
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 
-[me(at)likogan(dot)dev 0x8acbab2d00b6adef81416beaf815d5cd87d25b75](mailto:me(at)likogan(dot)dev)
+[me(at)likogan(dot)dev 0x8acbab2d00b6adef81416beaf815d5cd87d25b75](mailto:me(at)likogan(dot)dev)<br>
 [Github](https://github.com/Likogann)<br>
 [Discord](https://lookup.guru/334514066724880385)<br>
 
