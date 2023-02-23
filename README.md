@@ -2,7 +2,7 @@
 
 ``NodeJS Developer``
 
-I'm a NodeJS developer who specialised with RESTful APIs. I prefer using ExpressJS to handle my applications, but I'm more than willing to learn new platforms if they suit my needs better.
+I have extensive experience in developing and deploying applications using platforms such as ExpressJS and DiscordJS. I have deep knowledge in working with both of these platforms, and I am able to quickly and effectively solve any issues that may arise during the development process. I'm looking to build my programming knowledge, and create applications to better integrate users and code.
 
 ![Profile views](https://gpvc.arturio.dev/likogannn)
 
