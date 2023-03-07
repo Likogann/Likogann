@@ -1,6 +1,7 @@
-<h1 align="center">Hi, I'm Likogan</h1>
+<h1 align="center"> NodeJS Developer </h1>
 
-``NodeJS Developer``
+
+``A NodeJS Developer``
 
 I have extensive experience in developing and deploying applications using platforms such as ExpressJS and DiscordJS. I have deep knowledge in working with both of these platforms, and I am able to quickly and effectively solve any issues that may arise during the development process. I'm looking to build my programming knowledge, and create applications to better integrate users and code.
 
