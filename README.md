@@ -4,5 +4,5 @@
 </h3>
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -100; position: fixed; top: 0; left: 0; height: 50vh; object-fit: cover; background-size: contain; width: 100vw; opacity: 0.5; background-repeat: repeat-y; background: url('https://github.com/Likogann/Likogann/blob/master/molecule-small.jpeg?raw=true');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -100; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: contain; width: 100vw; opacity: 0.5; background-repeat: repeat-y; background: url('https://github.com/Likogann/Likogann/blob/master/molecule-small.jpeg?raw=true');]{x0000}$}
 ```
